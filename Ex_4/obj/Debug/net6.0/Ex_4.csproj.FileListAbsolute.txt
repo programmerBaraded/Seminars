@@ -1,0 +1,15 @@
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\bin\Debug\net6.0\Ex_4.exe
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\bin\Debug\net6.0\Ex_4.deps.json
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\bin\Debug\net6.0\Ex_4.runtimeconfig.json
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\bin\Debug\net6.0\Ex_4.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\bin\Debug\net6.0\Ex_4.pdb
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.csproj.AssemblyReference.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.GeneratedMSBuildEditorConfig.editorconfig
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.AssemblyInfoInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.AssemblyInfo.cs
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.csproj.CoreCompileInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\refint\Ex_4.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.pdb
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\Ex_4.genruntimeconfig.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_1\Ex_4\obj\Debug\net6.0\ref\Ex_4.dll
