@@ -13,4 +13,4 @@ else if (n < m)
     Console.WriteLine($"max {m}  min {n}");
 
 else
-    Console.WriteLine("Числа ровны");
+    Console.WriteLine("Числа равны");
