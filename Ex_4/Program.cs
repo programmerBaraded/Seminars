@@ -2,7 +2,7 @@
 
 Console.Clear();
 
-int[] nums = { 44, 5, 78 };
+int[] nums = { 2, 3, 7 };
  
 int max = int.MinValue;
 for (int i = 0; i < nums.Length; i++)
