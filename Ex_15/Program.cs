@@ -1,7 +1,7 @@
 ﻿// программу, которая принимает на вход цифру, обозначающую день недели, и проверяет, является ли этот день выходным
 Console.Clear();
 Console.Write("Введи цифру, обозначающую день недели: ");
-int dayNumber = Convert.ToInt32(Console.ReadLine());
+int dayNumber = int.Parse(Console.ReadLine());  //Convert.ToInt32
 
 void CheckingDay (int dayNumber) 
 {
