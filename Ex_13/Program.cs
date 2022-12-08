@@ -16,8 +16,9 @@ while (n > 1000)
 }
 if (n > 99)
 {
-    //int n1 = n % 10;
-    Console.WriteLine((n % 100) % 10); //n1
+    int n1 = n % 10;
+    Console.WriteLine(n1);
+    //Console.WriteLine((n % 100) % 10); //
 }
 else
 {
