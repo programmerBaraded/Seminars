@@ -1,0 +1,15 @@
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\bin\Debug\net6.0\Ex_13.exe
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\bin\Debug\net6.0\Ex_13.deps.json
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\bin\Debug\net6.0\Ex_13.runtimeconfig.json
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\bin\Debug\net6.0\Ex_13.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\bin\Debug\net6.0\Ex_13.pdb
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.csproj.AssemblyReference.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.GeneratedMSBuildEditorConfig.editorconfig
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.AssemblyInfoInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.AssemblyInfo.cs
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.csproj.CoreCompileInputs.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\refint\Ex_13.dll
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.pdb
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\Ex_13.genruntimeconfig.cache
+G:\!!!!!ОБУЧЕНИЕ\Seminars\Seminars_prog\Ex_13\obj\Debug\net6.0\ref\Ex_13.dll
