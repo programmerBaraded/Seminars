@@ -20,5 +20,13 @@ int[] size = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
 int[,] matrix = new int[size[0], size[1]];
 InputMatrix(matrix);
 
-Console.Write("Введите позицию элемента: ");
-matrix[i] = Console.ReadLine();
+Console.WriteLine("Введите позицию элемента: ");
+int a = Convert.ToInt32(Console.ReadLine());
+int b = Convert.ToInt32(Console.ReadLine());
+if (a > size[0] || b > size[1])
+Console.WriteLine("такого элемента нет");
+else
+{
+object c = matrix.GetValue(a - 1,b - 1);
+Console.WriteLine(c);
+}
