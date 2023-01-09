@@ -5,7 +5,7 @@ int sum (int m, int n)
 {
     if (m > n)
         return 0;
-    return sum(m+1, n) + m;
+    return sum(m + 1, n) + m;
 }
 
 Console.Clear ();
